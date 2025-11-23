@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain_core
+langchain_community
+langchain_huggingface
+langchain_groq
+ipykernel
+python-dotenv
+pypdf
+beautifulsoup4
+arxiv
+PyMuPDF 
+wikipedia
+langchain-text-splitters
+langchain-ollama
+streamlit
+langchain_classic
